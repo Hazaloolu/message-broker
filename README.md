@@ -1,1 +1,1 @@
-Implementation of a message broker in Go.
+A simple message broker written in Go.
